@@ -3,6 +3,6 @@
 (defn foo
   "I don't do a whole lot."
   [x y z]
-  (println x "Hello, World!")
-  (println y "This is to check anything")
+  (println x "vikram")
+  (println y "edited")
   (println z "Have not added a nwfile but edited the existing file"))
